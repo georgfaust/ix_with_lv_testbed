@@ -9,6 +9,8 @@
     "node": ">= 16.0.0"
   },
   "dependencies": {
+    "@siemens/ix": "^2.0.4",
+    "@siemens/ix-icons": "^2.1.0",
     "@fontsource-variable/inter": "^5.0.15",
     "@fontsource-variable/jetbrains-mono": "^5.0.18",
     "phoenix": "file:../deps/phoenix",
